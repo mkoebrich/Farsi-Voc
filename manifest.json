@@ -1,0 +1,11 @@
+{
+  "name": "Farsi-Voc",
+  "short_name": "Farsi-Voc",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f1ec",
+  "theme_color": "#1f6b4f",
+  "lang": "de",
+  "icons": []
+}
