@@ -501,6 +501,12 @@ fetch('data/vocab.json')
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .then(data => {
     vocab = data;
+    // Ergänzungsliste (weitere Wörter im gleichen Format) ist optional und ändert vocab.json nicht
+    return fetch('data/vocab-ergaenzung.json').then(r => r.ok ? r.json() : []).catch(() => []);
+  })
+  .then(more => {
+    const have = new Set(vocab.map(v => v.id));
+    (Array.isArray(more) ? more : []).forEach(v => { if (v && !have.has(v.id)) vocab.push(v); });
     vocabMap = new Map(vocab.map(v => [v.id, v]));
     // Zusatzdaten sind optional: ohne sie fehlen nur Filter und Synonyme
     return fetch('data/extra.json').then(r => r.ok ? r.json() : null).catch(() => null);

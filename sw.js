@@ -1,6 +1,6 @@
 // Offline-Cache: App-Dateien und Vokabeln merken
-const CACHE = 'farsi-voc-v4';
-const FILES = ['./', 'index.html', 'style.css', 'app.js', 'manifest.json', 'data/vocab.json', 'data/extra.json', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
+const CACHE = 'farsi-voc-v6';
+const FILES = ['./', 'index.html', 'style.css', 'app.js', 'manifest.json', 'data/vocab.json', 'data/extra.json', 'data/vocab-ergaenzung.json', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)));
   self.skipWaiting();

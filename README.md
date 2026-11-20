@@ -10,6 +10,7 @@ Karteikarten-Trainer für Farsi-Vokabeln aus dem Kurs „Ba ham“. Läuft als W
 ## Dateien
 - `index.html`, `style.css`, `app.js`: die App
 - `data/vocab.json`: Vokabelliste, 916 Einträge (`id`, `fa`, `fin`, `de`, `bsp`, `quelle`, `manuell`). `bsp` ist eine Liste von Beispielsätzen mit `fa`, `fin`, `de`, `quelle`.
+- `data/vocab-ergaenzung.json`: zusätzliche Wörter im gleichen Format wie `vocab.json` (IDs ab 4001), derzeit 55 Läden. Wird beim Laden angehängt, `vocab.json` bleibt unverändert.
 - `data/extra.json`: Zusatzdaten pro Wort-ID: Niveau (`n`), Themen (`t`) und Synonyme (`s`) mit Hinweis und Beispielsatz. Ein Entwurf, nicht aus dem Kurs: Niveau, Themen und besonders die Farsi-Sätze der Synonyme sollte jemand mit Farsi-Kenntnissen gegenlesen. Nicht jedes Wort hat Synonyme. Ohne diese Datei läuft die App weiter, nur Filter und Synonyme fehlen.
 - `sw.js`: Offline-Nutzung (Cache `farsi-voc-v3`; bei jeder Änderung an Dateien die Versionsnummer erhöhen)
 - `widget/wort-des-tages.js`: Scriptable-Widget für den Home-Bildschirm (zufälliges Wort mit zufälligem Beispielsatz)
@@ -26,7 +27,7 @@ Karteikarten-Trainer für Farsi-Vokabeln aus dem Kurs „Ba ham“. Läuft als W
 - Hell/Dunkel: Schalter oben rechts, die Wahl wird gemerkt (am ersten Start gilt die iPhone-Einstellung).
 
 ## Filter und Synonyme
-- Dropdown auf der Startseite (alphabetisch): Berufe, Familie, Fragewörter, Kleidung, Kommunikation, Kultur, Läden, Lebensmittel und Speisen, Niveau A1 bis C2, Präpositionen, Temporaladverbien, Verben, Verkehr.
+- Dropdown auf der Startseite (alphabetisch): Berufe, Familie, Fragewörter, Kleidung, Kommunikation, Kultur, Läden (nur Geschäfte, z. B. Bäckerei, Apotheke, Boutique, Kiosk; 67 Einträge), Lebensmittel und Speisen, Niveau A1 bis C2, Präpositionen, Temporaladverbien, Verben, Verkehr.
 - Der Filter gilt für „Session starten“ und „heute offen“. Die „nicht gewusst“-Session nimmt immer alle Wörter aus dem Haufen.
 - Unter den Beispielsätzen stehen die Synonyme, jeweils mit Hinweis (austauschbar, formeller, anderer Kontext) und Beispielsatz.
 

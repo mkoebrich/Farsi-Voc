@@ -1,0 +1,1212 @@
+[
+ {
+  "id": 4001,
+  "fa": "سبزی‌فروشی",
+  "fin": "sabzi-forushi",
+  "de": "Gemüseladen",
+  "bsp": [
+   {
+    "fa": "از سبزی‌فروشی کاهو و خیار خریدم.",
+    "fin": "az sabzi-forushi kāhu va khiyār kharidam.",
+    "de": "Ich habe im Gemüseladen Salat und Gurken gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "سبزی‌فروشی صبح‌ها باز است.",
+    "fin": "sabzi-forushi sobh-hā bāz ast.",
+    "de": "Der Gemüseladen ist morgens geöffnet.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4002,
+  "fa": "عطاری",
+  "fin": "attāri",
+  "de": "Kräuter- und Gewürzladen (traditionell)",
+  "bsp": [
+   {
+    "fa": "در عطاری چای گیاهی پیدا می‌شود.",
+    "fin": "dar attāri chāy-e giyāhi peydā mishavad.",
+    "de": "Im Kräuterladen findet man Kräutertee.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "از عطاری زعفران خریدم.",
+    "fin": "az attāri za'farān kharidam.",
+    "de": "Ich habe im Kräuterladen Safran gekauft.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4003,
+  "fa": "خواربارفروشی",
+  "fin": "khārbār-forushi",
+  "de": "Lebensmittelgeschäft",
+  "bsp": [
+   {
+    "fa": "خواربارفروشی سر کوچه است.",
+    "fin": "khārbār-forushi sar-e kuche ast.",
+    "de": "Das Lebensmittelgeschäft ist am Anfang der Gasse.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "برنج و روغن را از خواربارفروشی می‌خرم.",
+    "fin": "berenj va roghan rā az khārbār-forushi mikharam.",
+    "de": "Reis und Öl kaufe ich im Lebensmittelgeschäft.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4004,
+  "fa": "بقالی",
+  "fin": "baghghāli",
+  "de": "Krämerladen, Tante-Emma-Laden",
+  "bsp": [
+   {
+    "fa": "بقالی محله‌ی ما همیشه باز است.",
+    "fin": "baghghāli-ye mahalle-ye mā hamishe bāz ast.",
+    "de": "Der Krämerladen in unserem Viertel ist immer geöffnet.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "از بقالی یک بسته شکر خریدم.",
+    "fin": "az baghghāli yek baste shekar kharidam.",
+    "de": "Ich habe im Krämerladen eine Packung Zucker gekauft.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4005,
+  "fa": "ماهی‌فروشی",
+  "fin": "māhi-forushi",
+  "de": "Fischgeschäft",
+  "bsp": [
+   {
+    "fa": "ماهی تازه در ماهی‌فروشی است.",
+    "fin": "māhi-ye tāze dar māhi-forushi ast.",
+    "de": "Frischer Fisch ist im Fischgeschäft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "جمعه‌ها به ماهی‌فروشی می‌روم.",
+    "fin": "jom'e-hā be māhi-forushi miravam.",
+    "de": "Freitags gehe ich zum Fischgeschäft.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4006,
+  "fa": "لبنیاتی",
+  "fin": "labaniyāti",
+  "de": "Milchladen",
+  "bsp": [
+   {
+    "fa": "از لبنیاتی ماست و پنیر خریدم.",
+    "fin": "az labaniyāti māst va panir kharidam.",
+    "de": "Ich habe im Milchladen Joghurt und Käse gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "لبنیاتی نزدیک مدرسه است.",
+    "fin": "labaniyāti nazdik-e madrese ast.",
+    "de": "Der Milchladen ist in der Nähe der Schule.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4007,
+  "fa": "چای‌فروشی",
+  "fin": "chāy-forushi",
+  "de": "Teeladen",
+  "bsp": [
+   {
+    "fa": "در چای‌فروشی انواع چای هست.",
+    "fin": "dar chāy-forushi anvā'-e chāy hast.",
+    "de": "Im Teeladen gibt es viele Teesorten.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "این چای را از چای‌فروشی خریدم.",
+    "fin": "in chāy rā az chāy-forushi kharidam.",
+    "de": "Diesen Tee habe ich im Teeladen gekauft.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4008,
+  "fa": "قهوه‌فروشی",
+  "fin": "ghahve-forushi",
+  "de": "Kaffeeladen, Kaffeerösterei",
+  "bsp": [
+   {
+    "fa": "قهوه‌فروشی بوی خوبی دارد.",
+    "fin": "ghahve-forushi bu-ye khubi dārad.",
+    "de": "Der Kaffeeladen riecht gut.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "یک بسته قهوه از قهوه‌فروشی گرفتم.",
+    "fin": "yek baste ghahve az ghahve-forushi gereftam.",
+    "de": "Ich habe im Kaffeeladen eine Packung Kaffee geholt.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4009,
+  "fa": "آب‌میوه‌فروشی",
+  "fin": "āb-mive-forushi",
+  "de": "Saftladen",
+  "bsp": [
+   {
+    "fa": "در آب‌میوه‌فروشی آب انار می‌خورم.",
+    "fin": "dar āb-mive-forushi āb-e anār mikhoram.",
+    "de": "Im Saftladen trinke ich Granatapfelsaft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "آب‌میوه‌فروشی تابستان‌ها شلوغ است.",
+    "fin": "āb-mive-forushi tābestān-hā shologh ast.",
+    "de": "Der Saftladen ist im Sommer voll.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4010,
+  "fa": "بستنی‌فروشی",
+  "fin": "bastani-forushi",
+  "de": "Eisdiele",
+  "bsp": [
+   {
+    "fa": "بچه‌ها به بستنی‌فروشی رفتند.",
+    "fin": "bache-hā be bastani-forushi raftand.",
+    "de": "Die Kinder sind zur Eisdiele gegangen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "بستنی‌فروشی شب‌ها هم باز است.",
+    "fin": "bastani-forushi shab-hā ham bāz ast.",
+    "de": "Die Eisdiele ist auch abends geöffnet.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4011,
+  "fa": "مرغ‌فروشی",
+  "fin": "morgh-forushi",
+  "de": "Geflügelladen",
+  "bsp": [
+   {
+    "fa": "مرغ تازه را از مرغ‌فروشی می‌خریم.",
+    "fin": "morgh-e tāze rā az morgh-forushi mikharim.",
+    "de": "Frisches Hähnchen kaufen wir im Geflügelladen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "مرغ‌فروشی کنار قصابی است.",
+    "fin": "morgh-forushi kenār-e ghassābi ast.",
+    "de": "Der Geflügelladen ist neben der Metzgerei.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4012,
+  "fa": "عسل‌فروشی",
+  "fin": "asal-forushi",
+  "de": "Honigladen",
+  "bsp": [
+   {
+    "fa": "عسل را از عسل‌فروشی خریدم.",
+    "fin": "asal rā az asal-forushi kharidam.",
+    "de": "Den Honig habe ich im Honigladen gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "عسل‌فروشی عسل طبیعی دارد.",
+    "fin": "asal-forushi asal-e tabi'i dārad.",
+    "de": "Der Honigladen hat Naturhonig.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4013,
+  "fa": "عینک‌سازی",
+  "fin": "eynak-sāzi",
+  "de": "Optiker",
+  "bsp": [
+   {
+    "fa": "عینکم را در عینک‌سازی درست کردم.",
+    "fin": "eynakam rā dar eynak-sāzi dorost kardam.",
+    "de": "Ich habe meine Brille beim Optiker richten lassen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "عینک‌سازی بعد از ظهر باز می‌شود.",
+    "fin": "eynak-sāzi ba'd az zohr bāz mishavad.",
+    "de": "Der Optiker öffnet am Nachmittag.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4014,
+  "fa": "سالن زیبایی",
+  "fin": "sālon-e zibāyi",
+  "de": "Schönheitssalon",
+  "bsp": [
+   {
+    "fa": "خواهرم به سالن زیبایی رفت.",
+    "fin": "khāharam be sālon-e zibāyi raft.",
+    "de": "Meine Schwester ist zum Schönheitssalon gegangen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "سالن زیبایی تا شب باز است.",
+    "fin": "sālon-e zibāyi tā shab bāz ast.",
+    "de": "Der Schönheitssalon ist bis zum Abend geöffnet.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4015,
+  "fa": "سلمانی",
+  "fin": "salmāni",
+  "de": "Herrenfriseur",
+  "bsp": [
+   {
+    "fa": "پدرم هر ماه به سلمانی می‌رود.",
+    "fin": "pedaram har māh be salmāni miravad.",
+    "de": "Mein Vater geht jeden Monat zum Herrenfriseur.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "سلمانی موهایم را کوتاه کرد.",
+    "fin": "salmāni mu-hāyam rā kutāh kard.",
+    "de": "Der Friseur hat mir die Haare geschnitten.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4016,
+  "fa": "خشک‌شویی",
+  "fin": "khoshk-shuyi",
+  "de": "Reinigung",
+  "bsp": [
+   {
+    "fa": "کتم را به خشک‌شویی دادم.",
+    "fin": "kotam rā be khoshk-shuyi dādam.",
+    "de": "Ich habe mein Jackett in die Reinigung gegeben.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "خشک‌شویی فردا بسته است.",
+    "fin": "khoshk-shuyi fardā baste ast.",
+    "de": "Die Reinigung ist morgen geschlossen.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4017,
+  "fa": "لباس‌شویی",
+  "fin": "lebās-shuyi",
+  "de": "Wäscherei, Waschsalon",
+  "bsp": [
+   {
+    "fa": "ملافه‌ها را به لباس‌شویی بردم.",
+    "fin": "malāfe-hā rā be lebās-shuyi bordam.",
+    "de": "Ich habe die Bettlaken in die Wäscherei gebracht.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "لباس‌شویی نزدیک ایستگاه است.",
+    "fin": "lebās-shuyi nazdik-e istgāh ast.",
+    "de": "Die Wäscherei ist in der Nähe der Haltestelle.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4018,
+  "fa": "خیاطی",
+  "fin": "khayyāti",
+  "de": "Schneiderei",
+  "bsp": [
+   {
+    "fa": "شلوارم را به خیاطی بردم.",
+    "fin": "shalvāram rā be khayyāti bordam.",
+    "de": "Ich habe meine Hose zur Schneiderei gebracht.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "خیاطی لباس را کوتاه می‌کند.",
+    "fin": "khayyāti lebās rā kutāh mikonad.",
+    "de": "Die Schneiderei kürzt das Kleid.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4019,
+  "fa": "کفاشی",
+  "fin": "kaffāshi",
+  "de": "Schuhmacher, Schuhreparatur",
+  "bsp": [
+   {
+    "fa": "کفش‌هایم را به کفاشی بردم.",
+    "fin": "kafsh-hāyam rā be kaffāshi bordam.",
+    "de": "Ich habe meine Schuhe zum Schuhmacher gebracht.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "کفاشی کفش را تعمیر کرد.",
+    "fin": "kaffāshi kafsh rā ta'mir kard.",
+    "de": "Der Schuhmacher hat den Schuh repariert.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4020,
+  "fa": "قفل‌سازی",
+  "fin": "ghofl-sāzi",
+  "de": "Schlüsseldienst",
+  "bsp": [
+   {
+    "fa": "کلیدم گم شد، به قفل‌سازی زنگ زدم.",
+    "fin": "kelidam gom shod, be ghofl-sāzi zang zadam.",
+    "de": "Mein Schlüssel ist verloren gegangen, ich habe den Schlüsseldienst angerufen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "قفل‌سازی کلید یدکی می‌سازد.",
+    "fin": "ghofl-sāzi kelid-e yadaki misāzad.",
+    "de": "Der Schlüsseldienst macht Ersatzschlüssel.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4021,
+  "fa": "گل‌فروشی",
+  "fin": "gol-forushi",
+  "de": "Blumenladen",
+  "bsp": [
+   {
+    "fa": "برای مادرم از گل‌فروشی گل خریدم.",
+    "fin": "barāye mādaram az gol-forushi gol kharidam.",
+    "de": "Für meine Mutter habe ich im Blumenladen Blumen gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "گل‌فروشی پر از گل رز است.",
+    "fin": "gol-forushi por az gol-e raz ast.",
+    "de": "Der Blumenladen ist voller Rosen.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4022,
+  "fa": "لوازم‌التحریر‌فروشی",
+  "fin": "lavāzem-ot-tahrir-forushi",
+  "de": "Schreibwarenladen",
+  "bsp": [
+   {
+    "fa": "دفتر و مداد را از لوازم‌التحریر‌فروشی خریدم.",
+    "fin": "daftar va medād rā az lavāzem-ot-tahrir-forushi kharidam.",
+    "de": "Heft und Bleistift habe ich im Schreibwarenladen gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "لوازم‌التحریر‌فروشی کنار مدرسه است.",
+    "fin": "lavāzem-ot-tahrir-forushi kenār-e madrese ast.",
+    "de": "Der Schreibwarenladen ist neben der Schule.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4023,
+  "fa": "روزنامه‌فروشی",
+  "fin": "ruznāme-forushi",
+  "de": "Zeitungsstand",
+  "bsp": [
+   {
+    "fa": "روزنامه را از روزنامه‌فروشی می‌خرم.",
+    "fin": "ruznāme rā az ruznāme-forushi mikharam.",
+    "de": "Ich kaufe die Zeitung am Zeitungsstand.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "روزنامه‌فروشی سر خیابان است.",
+    "fin": "ruznāme-forushi sar-e khiyābān ast.",
+    "de": "Der Zeitungsstand ist am Anfang der Straße.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4024,
+  "fa": "کیوسک",
+  "fin": "kiosk",
+  "de": "Kiosk",
+  "bsp": [
+   {
+    "fa": "در کیوسک بلیت می‌فروشند.",
+    "fin": "dar kiosk belit mifurushand.",
+    "de": "Am Kiosk verkaufen sie Fahrkarten.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "کیوسک روبه‌روی ایستگاه است.",
+    "fin": "kiosk ruberu-ye istgāh ast.",
+    "de": "Der Kiosk liegt gegenüber der Haltestelle.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4025,
+  "fa": "دکه",
+  "fin": "doke",
+  "de": "Verkaufsstand, Bude",
+  "bsp": [
+   {
+    "fa": "دکه سر چهارراه است.",
+    "fin": "doke sar-e chahārrāh ast.",
+    "de": "Der Verkaufsstand ist an der Kreuzung.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "از دکه آدامس خریدم.",
+    "fin": "az doke ādāms kharidam.",
+    "de": "Am Stand habe ich Kaugummi gekauft.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4026,
+  "fa": "بوتیک",
+  "fin": "butik",
+  "de": "Boutique",
+  "bsp": [
+   {
+    "fa": "این بلوز را از بوتیک خریدم.",
+    "fin": "in bluz rā az butik kharidam.",
+    "de": "Diese Bluse habe ich in der Boutique gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "بوتیک لباس‌های شیک دارد.",
+    "fin": "butik lebās-hā-ye shik dārad.",
+    "de": "Die Boutique hat schicke Kleider.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4027,
+  "fa": "کفش‌فروشی",
+  "fin": "kafsh-forushi",
+  "de": "Schuhladen",
+  "bsp": [
+   {
+    "fa": "در کفش‌فروشی کفش قرمز دیدم.",
+    "fin": "dar kafsh-forushi kafsh-e ghermez didam.",
+    "de": "Im Schuhladen habe ich rote Schuhe gesehen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "کفش‌فروشی تخفیف دارد.",
+    "fin": "kafsh-forushi takhfif dārad.",
+    "de": "Der Schuhladen hat Rabatt.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4028,
+  "fa": "لباس‌فروشی",
+  "fin": "lebās-forushi",
+  "de": "Bekleidungsgeschäft",
+  "bsp": [
+   {
+    "fa": "در لباس‌فروشی پالتو پیدا کردم.",
+    "fin": "dar lebās-forushi pālto peydā kardam.",
+    "de": "Im Bekleidungsgeschäft habe ich einen Mantel gefunden.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "لباس‌فروشی ساعت ده باز می‌شود.",
+    "fin": "lebās-forushi sā'at-e dah bāz mishavad.",
+    "de": "Das Bekleidungsgeschäft öffnet um zehn Uhr.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4029,
+  "fa": "طلافروشی",
+  "fin": "talā-forushi",
+  "de": "Juwelier",
+  "bsp": [
+   {
+    "fa": "انگشتر را از طلافروشی خریدیم.",
+    "fin": "angoshtar rā az talā-forushi kharidim.",
+    "de": "Den Ring haben wir beim Juwelier gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "طلافروشی در بازار است.",
+    "fin": "talā-forushi dar bāzār ast.",
+    "de": "Der Juwelier ist im Basar.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4030,
+  "fa": "زرگری",
+  "fin": "zargari",
+  "de": "Goldschmiede",
+  "bsp": [
+   {
+    "fa": "او در زرگری کار می‌کند.",
+    "fin": "u dar zargari kār mikonad.",
+    "de": "Er/Sie arbeitet in einer Goldschmiede.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "زرگری گردنبند طلا می‌سازد.",
+    "fin": "zargari gardan-band-e talā misāzad.",
+    "de": "Die Goldschmiede fertigt Goldketten.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4031,
+  "fa": "عتیقه‌فروشی",
+  "fin": "atighe-forushi",
+  "de": "Antiquitätengeschäft",
+  "bsp": [
+   {
+    "fa": "در عتیقه‌فروشی یک ساعت قدیمی دیدم.",
+    "fin": "dar atighe-forushi yek sā'at-e ghadimi didam.",
+    "de": "Im Antiquitätengeschäft habe ich eine alte Uhr gesehen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "عتیقه‌فروشی پر از چیزهای قدیمی است.",
+    "fin": "atighe-forushi por az chiz-hā-ye ghadimi ast.",
+    "de": "Das Antiquitätengeschäft ist voller alter Dinge.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4032,
+  "fa": "دست‌دوم‌فروشی",
+  "fin": "dast-dovvom-forushi",
+  "de": "Secondhand-Laden",
+  "bsp": [
+   {
+    "fa": "این ژاکت را از دست‌دوم‌فروشی خریدم.",
+    "fin": "in zhāket rā az dast-dovvom-forushi kharidam.",
+    "de": "Diese Jacke habe ich im Secondhand-Laden gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "در دست‌دوم‌فروشی همه‌چیز ارزان است.",
+    "fin": "dar dast-dovvom-forushi hame-chiz arzān ast.",
+    "de": "Im Secondhand-Laden ist alles billig.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4033,
+  "fa": "بازارچه",
+  "fin": "bāzārche",
+  "de": "kleiner Basar, Markt",
+  "bsp": [
+   {
+    "fa": "هر جمعه به بازارچه می‌رویم.",
+    "fin": "har jom'e be bāzārche miravim.",
+    "de": "Jeden Freitag gehen wir zum kleinen Basar.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "در بازارچه صنایع دستی می‌فروشند.",
+    "fin": "dar bāzārche sanāye'-e dasti mifurushand.",
+    "de": "Auf dem kleinen Basar verkaufen sie Kunsthandwerk.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4034,
+  "fa": "هایپرمارکت",
+  "fin": "hāyper-mārket",
+  "de": "Hypermarkt",
+  "bsp": [
+   {
+    "fa": "هایپرمارکت خیلی بزرگ است.",
+    "fin": "hāyper-mārket kheili bozorg ast.",
+    "de": "Der Hypermarkt ist sehr groß.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "آخر هفته به هایپرمارکت می‌رویم.",
+    "fin": "ākhar-e hafte be hāyper-mārket miravim.",
+    "de": "Am Wochenende fahren wir zum Hypermarkt.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4035,
+  "fa": "مغازه",
+  "fin": "maghāze",
+  "de": "Laden, Geschäft",
+  "bsp": [
+   {
+    "fa": "این مغازه ساعت نه باز می‌شود.",
+    "fin": "in maghāze sā'at-e noh bāz mishavad.",
+    "de": "Dieser Laden öffnet um neun Uhr.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "پدرم یک مغازه‌ی کوچک دارد.",
+    "fin": "pedaram yek maghāze-ye kuchak dārad.",
+    "de": "Mein Vater hat einen kleinen Laden.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4036,
+  "fa": "فروشگاه",
+  "fin": "forushgāh",
+  "de": "Geschäft, Kaufhaus",
+  "bsp": [
+   {
+    "fa": "فروشگاه کنار بانک است.",
+    "fin": "forushgāh kenār-e bānk ast.",
+    "de": "Das Geschäft ist neben der Bank.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "در این فروشگاه همه‌چیز پیدا می‌شود.",
+    "fin": "dar in forushgāh hame-chiz peydā mishavad.",
+    "de": "In diesem Geschäft findet man alles.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4037,
+  "fa": "فروشگاه زنجیره‌ای",
+  "fin": "forushgāh-e zanjire-yi",
+  "de": "Filialgeschäft, Ladenkette",
+  "bsp": [
+   {
+    "fa": "این فروشگاه زنجیره‌ای در همه‌ی شهرها شعبه دارد.",
+    "fin": "in forushgāh-e zanjire-yi dar hame-ye shahr-hā sho'be dārad.",
+    "de": "Diese Ladenkette hat Filialen in allen Städten.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "از فروشگاه زنجیره‌ای نان و شیر خریدم.",
+    "fin": "az forushgāh-e zanjire-yi nān va shir kharidam.",
+    "de": "Ich habe in der Ladenkette Brot und Milch gekauft.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4038,
+  "fa": "اسباب‌بازی‌فروشی",
+  "fin": "asbāb-bāzi-forushi",
+  "de": "Spielwarenladen",
+  "bsp": [
+   {
+    "fa": "برای بچه‌ام از اسباب‌بازی‌فروشی عروسک خریدم.",
+    "fin": "barāye bache-am az asbāb-bāzi-forushi arusak kharidam.",
+    "de": "Für mein Kind habe ich im Spielwarenladen eine Puppe gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "اسباب‌بازی‌فروشی پر از رنگ است.",
+    "fin": "asbāb-bāzi-forushi por az rang ast.",
+    "de": "Der Spielwarenladen ist voller Farben.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4039,
+  "fa": "فروشگاه ورزشی",
+  "fin": "forushgāh-e varzeshi",
+  "de": "Sportgeschäft",
+  "bsp": [
+   {
+    "fa": "کفش دویدن را از فروشگاه ورزشی خریدم.",
+    "fin": "kafsh-e davidan rā az forushgāh-e varzeshi kharidam.",
+    "de": "Laufschuhe habe ich im Sportgeschäft gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "فروشگاه ورزشی توپ فوتبال دارد.",
+    "fin": "forushgāh-e varzeshi tup-e futbāl dārad.",
+    "de": "Das Sportgeschäft hat Fußbälle.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4040,
+  "fa": "دوچرخه‌فروشی",
+  "fin": "docharkhe-forushi",
+  "de": "Fahrradladen",
+  "bsp": [
+   {
+    "fa": "دوچرخه‌ام را به دوچرخه‌فروشی بردم.",
+    "fin": "docharkhe-am rā be docharkhe-forushi bordam.",
+    "de": "Ich habe mein Fahrrad zum Fahrradladen gebracht.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "دوچرخه‌فروشی دوچرخه‌ی کوهستان دارد.",
+    "fin": "docharkhe-forushi docharkhe-ye kuhestān dārad.",
+    "de": "Der Fahrradladen hat Mountainbikes.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4041,
+  "fa": "موبایل‌فروشی",
+  "fin": "mobāyl-forushi",
+  "de": "Handyladen",
+  "bsp": [
+   {
+    "fa": "گوشی جدید را از موبایل‌فروشی خریدم.",
+    "fin": "gushi-ye jadid rā az mobāyl-forushi kharidam.",
+    "de": "Das neue Handy habe ich im Handyladen gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "موبایل‌فروشی کنار داروخانه است.",
+    "fin": "mobāyl-forushi kenār-e dārukhāne ast.",
+    "de": "Der Handyladen ist neben der Apotheke.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4042,
+  "fa": "فروشگاه الکترونیک",
+  "fin": "forushgāh-e elektronik",
+  "de": "Elektronikmarkt",
+  "bsp": [
+   {
+    "fa": "تلویزیون را از فروشگاه الکترونیک خریدیم.",
+    "fin": "televiziyon rā az forushgāh-e elektronik kharidim.",
+    "de": "Den Fernseher haben wir im Elektronikmarkt gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "فروشگاه الکترونیک دوربین هم دارد.",
+    "fin": "forushgāh-e elektronik durbin ham dārad.",
+    "de": "Der Elektronikmarkt hat auch Kameras.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4043,
+  "fa": "مبل‌فروشی",
+  "fin": "mobl-forushi",
+  "de": "Möbelhaus",
+  "bsp": [
+   {
+    "fa": "ما در مبل‌فروشی یک کاناپه دیدیم.",
+    "fin": "mā dar mobl-forushi yek kānāpe didim.",
+    "de": "Wir haben im Möbelhaus ein Sofa gesehen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "مبل‌فروشی طبقه‌ی دوم است.",
+    "fin": "mobl-forushi tabaghe-ye dovvom ast.",
+    "de": "Das Möbelhaus ist im zweiten Stock.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4044,
+  "fa": "پت‌شاپ",
+  "fin": "pet-shāp",
+  "de": "Zoohandlung",
+  "bsp": [
+   {
+    "fa": "غذای گربه را از پت‌شاپ می‌خرم.",
+    "fin": "ghazā-ye gorbe rā az pet-shāp mikharam.",
+    "de": "Das Katzenfutter kaufe ich in der Zoohandlung.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "پت‌شاپ ماهی و پرنده دارد.",
+    "fin": "pet-shāp māhi va parande dārad.",
+    "de": "Die Zoohandlung hat Fische und Vögel.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4045,
+  "fa": "نهالستان",
+  "fin": "nahālestān",
+  "de": "Gärtnerei, Baumschule",
+  "bsp": [
+   {
+    "fa": "برای باغچه از نهالستان گل خریدم.",
+    "fin": "barāye bāghche az nahālestān gol kharidam.",
+    "de": "Für den Garten habe ich in der Gärtnerei Blumen gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "نهالستان پر از نهال است.",
+    "fin": "nahālestān por az nahāl ast.",
+    "de": "Die Baumschule ist voller Setzlinge.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4046,
+  "fa": "ابزارفروشی",
+  "fin": "abzār-forushi",
+  "de": "Werkzeugladen",
+  "bsp": [
+   {
+    "fa": "چکش را از ابزارفروشی خریدم.",
+    "fin": "chakosh rā az abzār-forushi kharidam.",
+    "de": "Den Hammer habe ich im Werkzeugladen gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "ابزارفروشی نزدیک بازار است.",
+    "fin": "abzār-forushi nazdik-e bāzār ast.",
+    "de": "Der Werkzeugladen ist in der Nähe des Basars.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4047,
+  "fa": "ساز‌فروشی",
+  "fin": "sāz-forushi",
+  "de": "Musikgeschäft (Instrumente)",
+  "bsp": [
+   {
+    "fa": "گیتارم را از ساز‌فروشی خریدم.",
+    "fin": "gitāram rā az sāz-forushi kharidam.",
+    "de": "Meine Gitarre habe ich im Musikgeschäft gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "ساز‌فروشی ویولن هم دارد.",
+    "fin": "sāz-forushi violan ham dārad.",
+    "de": "Das Musikgeschäft hat auch Geigen.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4048,
+  "fa": "پارچه‌فروشی",
+  "fin": "pārche-forushi",
+  "de": "Stoffladen",
+  "bsp": [
+   {
+    "fa": "برای پرده از پارچه‌فروشی پارچه خریدم.",
+    "fin": "barāye parde az pārche-forushi pārche kharidam.",
+    "de": "Für den Vorhang habe ich im Stoffladen Stoff gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "پارچه‌فروشی رنگ‌های زیادی دارد.",
+    "fin": "pārche-forushi rang-hā-ye ziyādi dārad.",
+    "de": "Der Stoffladen hat viele Farben.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4049,
+  "fa": "فرش‌فروشی",
+  "fin": "farsh-forushi",
+  "de": "Teppichgeschäft",
+  "bsp": [
+   {
+    "fa": "این فرش را از فرش‌فروشی خریدیم.",
+    "fin": "in farsh rā az farsh-forushi kharidim.",
+    "de": "Diesen Teppich haben wir im Teppichgeschäft gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "فرش‌فروشی در اصفهان معروف است.",
+    "fin": "farsh-forushi dar esfahān ma'ruf ast.",
+    "de": "Das Teppichgeschäft in Isfahan ist berühmt.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4050,
+  "fa": "فروشگاه صنایع دستی",
+  "fin": "forushgāh-e sanāye'-e dasti",
+  "de": "Kunsthandwerksladen",
+  "bsp": [
+   {
+    "fa": "در فروشگاه صنایع دستی گلدان خریدم.",
+    "fin": "dar forushgāh-e sanāye'-e dasti goldān kharidam.",
+    "de": "Im Kunsthandwerksladen habe ich eine Vase gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "فروشگاه صنایع دستی نزدیک موزه است.",
+    "fin": "forushgāh-e sanāye'-e dasti nazdik-e muze ast.",
+    "de": "Der Kunsthandwerksladen ist in der Nähe des Museums.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4051,
+  "fa": "سوغاتی‌فروشی",
+  "fin": "soghāti-forushi",
+  "de": "Souvenirladen",
+  "bsp": [
+   {
+    "fa": "از سوغاتی‌فروشی یک کارت پستال خریدم.",
+    "fin": "az soghāti-forushi yek kārt-postāl kharidam.",
+    "de": "Im Souvenirladen habe ich eine Postkarte gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "سوغاتی‌فروشی کنار فرودگاه است.",
+    "fin": "soghāti-forushi kenār-e farudgāh ast.",
+    "de": "Der Souvenirladen ist neben dem Flughafen.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4052,
+  "fa": "حراجی",
+  "fin": "harāji",
+  "de": "Resteladen, Ramschladen",
+  "bsp": [
+   {
+    "fa": "در حراجی لباس ارزان پیدا کردم.",
+    "fin": "dar harāji lebās-e arzān peydā kardam.",
+    "de": "Im Resteladen habe ich billige Kleidung gefunden.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "حراجی آخر هفته باز است.",
+    "fin": "harāji ākhar-e hafte bāz ast.",
+    "de": "Der Resteladen ist am Wochenende geöffnet.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4053,
+  "fa": "پاساژ",
+  "fin": "pāsāzh",
+  "de": "Einkaufspassage",
+  "bsp": [
+   {
+    "fa": "در پاساژ چند مغازه هست.",
+    "fin": "dar pāsāzh chand maghāze hast.",
+    "de": "In der Einkaufspassage gibt es mehrere Läden.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "پاساژ روبه‌روی بانک است.",
+    "fin": "pāsāzh ruberu-ye bānk ast.",
+    "de": "Die Passage liegt gegenüber der Bank.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4054,
+  "fa": "نمایشگاه ماشین",
+  "fin": "namāyeshgāh-e māshin",
+  "de": "Autohaus",
+  "bsp": [
+   {
+    "fa": "پدرم به نمایشگاه ماشین رفت.",
+    "fin": "pedaram be namāyeshgāh-e māshin raft.",
+    "de": "Mein Vater ist zum Autohaus gegangen.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "در نمایشگاه ماشین‌های نو هست.",
+    "fin": "dar namāyeshgāh māshin-hā-ye now hast.",
+    "de": "Im Autohaus gibt es neue Autos.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ },
+ {
+  "id": 4055,
+  "fa": "عطرفروشی",
+  "fin": "atr-forushi",
+  "de": "Parfümerie",
+  "bsp": [
+   {
+    "fa": "این عطر را از عطرفروشی خریدم.",
+    "fin": "in atr rā az atr-forushi kharidam.",
+    "de": "Dieses Parfüm habe ich in der Parfümerie gekauft.",
+    "quelle": "neu"
+   },
+   {
+    "fa": "عطرفروشی بوی خوبی دارد.",
+    "fin": "atr-forushi bu-ye khubi dārad.",
+    "de": "Die Parfümerie riecht gut.",
+    "quelle": "neu"
+   }
+  ],
+  "quelle": "Ergänzung (Läden)",
+  "manuell": true
+ }
+]
