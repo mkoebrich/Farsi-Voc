@@ -1,0 +1,2422 @@
+[
+ {
+  "id": 4101,
+  "fa": "خوردن",
+  "fin": "khordan",
+  "de": "essen",
+  "bsp": [
+   {
+    "fa": "تو امشب شام چی می‌خوری؟",
+    "fin": "to emshab shām chi mikhori?",
+    "de": "Was isst du heute Abend zum Abendessen?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من امروز صبحانه نان و پنیر خوردم.",
+    "fin": "man emruz sobhāne nān va panir khordam.",
+    "de": "Ich habe heute zum Frühstück Brot und Käse gegessen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4102,
+  "fa": "چیزی",
+  "fin": "chizi",
+  "de": "etwas",
+  "bsp": [
+   {
+    "fa": "من می‌خواهم چیزی بخورم.",
+    "fin": "man mikhāham chizi bekhoram.",
+    "de": "Ich möchte etwas essen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "چیزی نمی‌خواهم.",
+    "fin": "chizi nemikhāham.",
+    "de": "Ich möchte nichts.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4103,
+  "fa": "فکر کردن",
+  "fin": "fekr kardan",
+  "de": "denken, glauben",
+  "bsp": [
+   {
+    "fa": "من فکر می‌کنم شغل مترجم خیلی سخت است.",
+    "fin": "man fekr mikonam shoghl-e motarjem kheili sakht ast.",
+    "de": "Ich glaube, der Beruf Übersetzer/in ist sehr schwer.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "به چی فکر می‌کنی؟",
+    "fin": "be chi fekr mikoni?",
+    "de": "Woran denkst du?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4104,
+  "fa": "به نظرم",
+  "fin": "be nazaram",
+  "de": "meiner Meinung nach",
+  "bsp": [
+   {
+    "fa": "به نظرم شغل قاضی خیلی جالب است.",
+    "fin": "be nazaram shoghl-e ghāzi kheili jāleb ast.",
+    "de": "Meiner Meinung nach ist der Beruf Richter/in sehr interessant.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "به نظر تو چه شغلی خیلی خطرناک است؟",
+    "fin": "be nazar-e to che shoghli kheili khatarnāk ast?",
+    "de": "Was ist deiner Meinung nach ein sehr gefährlicher Beruf?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4105,
+  "fa": "از دید من",
+  "fin": "az did-e man",
+  "de": "aus meiner Sicht",
+  "bsp": [
+   {
+    "fa": "از دید من حسابدار بودن کسل‌کننده است.",
+    "fin": "az did-e man hesābdār budan kesel-konande ast.",
+    "de": "Aus meiner Sicht ist es langweilig, Buchhalter/in zu sein.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "از دید من این شهر خیلی زیباست.",
+    "fin": "az did-e man in shahr kheili zibāst.",
+    "de": "Aus meiner Sicht ist diese Stadt sehr schön.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4106,
+  "fa": "گرفتن",
+  "fin": "gereftan",
+  "de": "nehmen, bekommen",
+  "bsp": [
+   {
+    "fa": "او یک کتاب از کتابخانه گرفت.",
+    "fin": "u yek ketāb az ketābkhāne gereft.",
+    "de": "Er/Sie hat ein Buch aus der Bibliothek genommen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من سیب گرفتم.",
+    "fin": "man sib gereftam.",
+    "de": "Ich habe Äpfel genommen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4107,
+  "fa": "عکس گرفتن",
+  "fin": "aks gereftan",
+  "de": "fotografieren (etwas Bestimmtes)",
+  "bsp": [
+   {
+    "fa": "من از شهر عکس می‌گیرم.",
+    "fin": "man az shahr aks migiram.",
+    "de": "Ich fotografiere die Stadt.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "آیا می‌خواهیم آخر هفته عکس بگیریم؟",
+    "fin": "āyā mikhāhim ākhar-e hafte aks begirim?",
+    "de": "Wollen wir am Wochenende Fotos machen?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4108,
+  "fa": "تصمیم گرفتن",
+  "fin": "tasmim gereftan",
+  "de": "entscheiden, einen Entschluss fassen",
+  "bsp": [
+   {
+    "fa": "من تصمیم گرفتم فارسی یاد بگیرم.",
+    "fin": "man tasmim gereftam fārsi yād begiram.",
+    "de": "Ich habe beschlossen, Persisch zu lernen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "شما چه تصمیمی گرفتید؟",
+    "fin": "shomā che tasmimi gereftid?",
+    "de": "Was haben Sie entschieden?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4109,
+  "fa": "چه حیف!",
+  "fin": "che heyf!",
+  "de": "Wie schade!",
+  "bsp": [
+   {
+    "fa": "چه حیف! امروز نیامدی.",
+    "fin": "che heyf! emruz nayāmadi.",
+    "de": "Wie schade! Du bist heute nicht gekommen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "چه حیف! کلاس تعطیل است.",
+    "fin": "che heyf! kelās ta'til ast.",
+    "de": "Wie schade! Der Unterricht fällt aus.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4110,
+  "fa": "خوش گذشت؟",
+  "fin": "khosh gozasht?",
+  "de": "Hat es Spaß gemacht? Hattest du eine schöne Zeit?",
+  "bsp": [
+   {
+    "fa": "تعطیلات خوش گذشت؟",
+    "fin": "ta'tilāt khosh gozasht?",
+    "de": "Hattest du schöne Ferien?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "بله، خیلی خوش گذشت.",
+    "fin": "bale, kheili khosh gozasht.",
+    "de": "Ja, es hat viel Spaß gemacht.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4111,
+  "fa": "خدا قوت! / خسته نباشی!",
+  "fin": "khodā ghovvat! / khaste nabāshi!",
+  "de": "Viel Erfolg bei der Arbeit! (Gruß an jemanden, der arbeitet)",
+  "bsp": [
+   {
+    "fa": "سلام، خسته نباشید!",
+    "fin": "salām, khaste nabāshid!",
+    "de": "Hallo, viel Erfolg bei der Arbeit!",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "خدا قوت! کارت تمام شد؟",
+    "fin": "khodā ghovvat! kārat tamām shod?",
+    "de": "Viel Erfolg! Ist deine Arbeit fertig?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4112,
+  "fa": "سرد",
+  "fin": "sard",
+  "de": "kalt",
+  "bsp": [
+   {
+    "fa": "گاهی گرم است ولی گاهی هم سرد است.",
+    "fin": "gāhi garm ast vali gāhi ham sard ast.",
+    "de": "Manchmal ist es warm, aber manchmal auch kalt.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "آب سرد است.",
+    "fin": "āb sard ast.",
+    "de": "Das Wasser ist kalt.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4113,
+  "fa": "سرما",
+  "fin": "sarmā",
+  "de": "Kälte",
+  "bsp": [
+   {
+    "fa": "من سرما را دوست ندارم.",
+    "fin": "man sarmā rā dust nadāram.",
+    "de": "Ich mag Kälte nicht.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "از سرما دست‌هایم یخ زد.",
+    "fin": "az sarmā dast-hāyam yakh zad.",
+    "de": "Meine Hände sind vor Kälte eiskalt geworden.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4114,
+  "fa": "گرما",
+  "fin": "garmā",
+  "de": "Wärme, Hitze",
+  "bsp": [
+   {
+    "fa": "من گرما را دوست دارم.",
+    "fin": "man garmā rā dust dāram.",
+    "de": "Ich mag Wärme.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "در تابستان گرما زیاد است.",
+    "fin": "dar tābestān garmā ziyād ast.",
+    "de": "Im Sommer ist es sehr heiß.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4115,
+  "fa": "بیرون",
+  "fin": "birun",
+  "de": "draußen, außen",
+  "bsp": [
+   {
+    "fa": "داخل خانه گرم است ولی بیرون سرد است.",
+    "fin": "dākhel-e khāne garm ast vali birun sard ast.",
+    "de": "Im Haus ist es warm, aber draußen ist es kalt.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "بچه‌ها بیرون بازی می‌کنند.",
+    "fin": "bache-hā birun bāzi mikonand.",
+    "de": "Die Kinder spielen draußen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4116,
+  "fa": "زادگاه",
+  "fin": "zādgāh",
+  "de": "Geburtsort, Heimatstadt",
+  "bsp": [
+   {
+    "fa": "زادگاه من لایپزیگ است.",
+    "fin": "zādgāh-e man lāyepzig ast.",
+    "de": "Mein Geburtsort ist Leipzig.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "زادگاه تو کجاست؟",
+    "fin": "zādgāh-e to kojāst?",
+    "de": "Wo ist dein Geburtsort?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4117,
+  "fa": "معمولی",
+  "fin": "ma'muli",
+  "de": "gewöhnlich, normal",
+  "bsp": [
+   {
+    "fa": "این یک روز معمولی است.",
+    "fin": "in yek ruz-e ma'muli ast.",
+    "de": "Das ist ein gewöhnlicher Tag.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "غذا معمولی بود.",
+    "fin": "ghazā ma'muli bud.",
+    "de": "Das Essen war durchschnittlich.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4118,
+  "fa": "نرمال",
+  "fin": "normāl",
+  "de": "normal",
+  "bsp": [
+   {
+    "fa": "این نرمال است.",
+    "fin": "in normāl ast.",
+    "de": "Das ist normal.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "حال تو نرمال است؟",
+    "fin": "hāl-e to normāl ast?",
+    "de": "Ist bei dir alles normal?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4119,
+  "fa": "بیشتر اوقات",
+  "fin": "bishtar oghāt",
+  "de": "meistens, die meiste Zeit",
+  "bsp": [
+   {
+    "fa": "بیشتر اوقات در خانه هستم.",
+    "fin": "bishtar oghāt dar khāne hastam.",
+    "de": "Meistens bin ich zu Hause.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "او بیشتر اوقات کتاب می‌خواند.",
+    "fin": "u bishtar oghāt ketāb mikhānad.",
+    "de": "Er/Sie liest meistens Bücher.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4120,
+  "fa": "بهتر",
+  "fin": "behtar",
+  "de": "besser",
+  "bsp": [
+   {
+    "fa": "کدام بهتر است؟",
+    "fin": "kodām behtar ast?",
+    "de": "Welches ist besser?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "این کتاب بهتر است.",
+    "fin": "in ketāb behtar ast.",
+    "de": "Dieses Buch ist besser.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4121,
+  "fa": "زمستان",
+  "fin": "zemestān",
+  "de": "Winter",
+  "bsp": [
+   {
+    "fa": "زمستان یا تابستان؟",
+    "fin": "zemestān yā tābestān?",
+    "de": "Winter oder Sommer?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "در زمستان برف می‌بارد.",
+    "fin": "dar zemestān barf mibārad.",
+    "de": "Im Winter schneit es.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4122,
+  "fa": "تابستان",
+  "fin": "tābestān",
+  "de": "Sommer",
+  "bsp": [
+   {
+    "fa": "تابستان در اسپانیا گرم است.",
+    "fin": "tābestān dar espāniyā garm ast.",
+    "de": "Der Sommer in Spanien ist heiß.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "تابستان به دریا می‌رویم.",
+    "fin": "tābestān be daryā miravim.",
+    "de": "Im Sommer fahren wir ans Meer.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4123,
+  "fa": "بهار",
+  "fin": "bahār",
+  "de": "Frühling",
+  "bsp": [
+   {
+    "fa": "بهار فصل زیبایی است.",
+    "fin": "bahār fasl-e zibāyi ast.",
+    "de": "Der Frühling ist eine schöne Jahreszeit.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "در بهار گل‌ها باز می‌شوند.",
+    "fin": "dar bahār gol-hā bāz mishavand.",
+    "de": "Im Frühling blühen die Blumen auf.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4124,
+  "fa": "پاییز",
+  "fin": "pāyiz",
+  "de": "Herbst",
+  "bsp": [
+   {
+    "fa": "پاییز باران می‌بارد.",
+    "fin": "pāyiz bārān mibārad.",
+    "de": "Im Herbst regnet es.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "فصل مورد علاقه‌ی من پاییز است.",
+    "fin": "fasl-e mored-e alāghe-ye man pāyiz ast.",
+    "de": "Meine Lieblingsjahreszeit ist der Herbst.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4125,
+  "fa": "دوشنبه",
+  "fin": "doshanbe",
+  "de": "Montag",
+  "bsp": [
+   {
+    "fa": "دوشنبه‌ها به کلاس فارسی می‌روم.",
+    "fin": "doshanbe-hā be kelās-e fārsi miravam.",
+    "de": "Montags gehe ich zum Persischkurs.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "امروز دوشنبه است.",
+    "fin": "emruz doshanbe ast.",
+    "de": "Heute ist Montag.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4126,
+  "fa": "سه‌شنبه",
+  "fin": "seshanbe",
+  "de": "Dienstag",
+  "bsp": [
+   {
+    "fa": "سه‌شنبه کار می‌کنم.",
+    "fin": "seshanbe kār mikonam.",
+    "de": "Am Dienstag arbeite ich.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "سه‌شنبه‌ها ورزش می‌کنم.",
+    "fin": "seshanbe-hā varzesh mikonam.",
+    "de": "Dienstags treibe ich Sport.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4127,
+  "fa": "چهارشنبه",
+  "fin": "chahārshanbe",
+  "de": "Mittwoch",
+  "bsp": [
+   {
+    "fa": "چهارشنبه به بازار می‌روم.",
+    "fin": "chahārshanbe be bāzār miravam.",
+    "de": "Am Mittwoch gehe ich zum Basar.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "امروز چهارشنبه است.",
+    "fin": "emruz chahārshanbe ast.",
+    "de": "Heute ist Mittwoch.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4128,
+  "fa": "پنج‌شنبه",
+  "fin": "panjshanbe",
+  "de": "Donnerstag",
+  "bsp": [
+   {
+    "fa": "پنج‌شنبه به دانشگاه نمی‌روم.",
+    "fin": "panjshanbe be dāneshgāh nemiravam.",
+    "de": "Am Donnerstag gehe ich nicht zur Universität.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "پنج‌شنبه شب مهمانی داریم.",
+    "fin": "panjshanbe shab mehmāni dārim.",
+    "de": "Donnerstagabend haben wir eine Party.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4129,
+  "fa": "جمعه",
+  "fin": "jom'e",
+  "de": "Freitag",
+  "bsp": [
+   {
+    "fa": "جمعه تعطیل است.",
+    "fin": "jom'e ta'til ast.",
+    "de": "Freitag ist frei.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "جمعه‌ها به بازارچه می‌رویم.",
+    "fin": "jom'e-hā be bāzārche miravim.",
+    "de": "Freitags gehen wir zum kleinen Basar.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4130,
+  "fa": "استاد",
+  "fin": "ostād",
+  "de": "Professor/in, Dozent/in, Meister",
+  "bsp": [
+   {
+    "fa": "استاد در دانشگاه است.",
+    "fin": "ostād dar dāneshgāh ast.",
+    "de": "Der Professor ist an der Universität.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "استاد امروز کلاس ندارد.",
+    "fin": "ostād emruz kelās nadārad.",
+    "de": "Der Professor hat heute keine Vorlesung.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4131,
+  "fa": "پیک‌نیک رفتن",
+  "fin": "pik-nik raftan",
+  "de": "picknicken gehen",
+  "bsp": [
+   {
+    "fa": "آخر هفته پیک‌نیک می‌رویم.",
+    "fin": "ākhar-e hafte pik-nik miravim.",
+    "de": "Am Wochenende machen wir ein Picknick.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "دوست دارم پیک‌نیک بروم.",
+    "fin": "dust dāram pik-nik beravam.",
+    "de": "Ich gehe gern picknicken.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4132,
+  "fa": "کلاس",
+  "fin": "kelās",
+  "de": "Kurs, Unterricht, Klasse",
+  "bsp": [
+   {
+    "fa": "تو دوشنبه‌ها به کلاس فارسی می‌روی؟",
+    "fin": "to doshanbe-hā be kelās-e fārsi miravi?",
+    "de": "Gehst du montags zum Persischkurs?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "ما در کلاس فارسی یاد می‌گیریم.",
+    "fin": "mā dar kelās fārsi yād migirim.",
+    "de": "Wir lernen im Kurs Persisch.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4133,
+  "fa": "هیچ",
+  "fin": "hich",
+  "de": "kein, nie (mit verneintem Verb)",
+  "bsp": [
+   {
+    "fa": "مادرم هیچ روزی کار نمی‌کند!",
+    "fin": "mādaram hich ruzi kār nemikonad!",
+    "de": "Meine Mutter arbeitet an keinem Tag!",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من هیچ وقت دیر نمی‌آیم.",
+    "fin": "man hich vaght dir nemiāyam.",
+    "de": "Ich komme nie zu spät.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4134,
+  "fa": "چند",
+  "fin": "chand",
+  "de": "wie viele, einige",
+  "bsp": [
+   {
+    "fa": "چند روز در هفته کار می‌کنی؟",
+    "fin": "chand ruz dar hafte kār mikoni?",
+    "de": "An wie vielen Tagen pro Woche arbeitest du?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "چند اتاق خواب داری؟",
+    "fin": "chand otāgh-e khāb dāri?",
+    "de": "Wie viele Schlafzimmer hast du?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4135,
+  "fa": "بعضی",
+  "fin": "ba'zi",
+  "de": "manche, einige",
+  "bsp": [
+   {
+    "fa": "بعضی وقت‌ها کار می‌کنم.",
+    "fin": "ba'zi vaght-hā kār mikonam.",
+    "de": "Manchmal arbeite ich.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "بعضی از دوستانم در برلین زندگی می‌کنند.",
+    "fin": "ba'zi az dustānam dar berlin zendegi mikonand.",
+    "de": "Manche meiner Freunde leben in Berlin.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4136,
+  "fa": "چون که",
+  "fin": "chon ke",
+  "de": "weil",
+  "bsp": [
+   {
+    "fa": "من دیر آمدم چون که ترافیک بود.",
+    "fin": "man dir āmadam chon ke terāfik bud.",
+    "de": "Ich bin zu spät gekommen, weil Stau war.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "نیامدم چون که مریض بودم.",
+    "fin": "nayāmadam chon ke mariz budam.",
+    "de": "Ich bin nicht gekommen, weil ich krank war.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4137,
+  "fa": "برای اینکه",
+  "fin": "barāye inke",
+  "de": "weil, damit",
+  "bsp": [
+   {
+    "fa": "برای اینکه خسته‌ام زود می‌خوابم.",
+    "fin": "barāye inke khasteam zud mikhābam.",
+    "de": "Weil ich müde bin, schlafe ich früh.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "فارسی یاد می‌گیرم برای اینکه به ایران سفر کنم.",
+    "fin": "fārsi yād migiram barāye inke be irān safar konam.",
+    "de": "Ich lerne Persisch, damit ich nach Iran reisen kann.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4138,
+  "fa": "زیرا",
+  "fin": "zirā",
+  "de": "weil, denn (schriftlich)",
+  "bsp": [
+   {
+    "fa": "نیامد، زیرا مریض بود.",
+    "fin": "nayāmad, zirā mariz bud.",
+    "de": "Er/Sie kam nicht, denn er/sie war krank.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "زیرا هوا سرد است، کت می‌پوشم.",
+    "fin": "zirā havā sard ast, kot mipusham.",
+    "de": "Weil es kalt ist, ziehe ich ein Jackett an.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4139,
+  "fa": "سالاد شیرازی",
+  "fin": "sālād-e shirāzi",
+  "de": "Shirazi-Salat (Salat aus Gurken, Tomaten und Zwiebeln)",
+  "bsp": [
+   {
+    "fa": "تو امشب سالاد شیرازی می‌خوری؟",
+    "fin": "to emshab sālād-e shirāzi mikhori?",
+    "de": "Isst du heute Abend Shirazi-Salat?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "مادرم سالاد شیرازی درست می‌کند.",
+    "fin": "mādaram sālād-e shirāzi dorost mikonad.",
+    "de": "Meine Mutter macht Shirazi-Salat.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4140,
+  "fa": "فعل",
+  "fin": "fe'l",
+  "de": "Verb",
+  "bsp": [
+   {
+    "fa": "«خوردن» یک فعل است.",
+    "fin": "«khordan» yek fe'l ast.",
+    "de": "„khordan“ ist ein Verb.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "فعل در آخر جمله می‌آید.",
+    "fin": "fe'l dar ākhar-e jomle miāyad.",
+    "de": "Das Verb steht am Ende des Satzes.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4141,
+  "fa": "گذشته",
+  "fin": "gozashte",
+  "de": "vergangen, Vergangenheit",
+  "bsp": [
+   {
+    "fa": "آخر هفته‌ی گذشته به پارک رفتم.",
+    "fin": "ākhar-e hafte-ye gozashte be pārk raftam.",
+    "de": "Am letzten Wochenende bin ich in den Park gegangen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "او در گذشته در تهران زندگی می‌کرد.",
+    "fin": "u dar gozashte dar tehrān zendegi mikard.",
+    "de": "Früher lebte er/sie in Teheran.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4142,
+  "fa": "پیش",
+  "fin": "pish",
+  "de": "vor (zeitlich), bei",
+  "bsp": [
+   {
+    "fa": "آخر هفته‌ی پیش کجا بودی؟",
+    "fin": "ākhar-e hafte-ye pish kojā budi?",
+    "de": "Wo warst du letztes Wochenende?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "ده سال پیش به ایران رفتم.",
+    "fin": "dah sāl pish be irān raftam.",
+    "de": "Vor zehn Jahren bin ich nach Iran gegangen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4143,
+  "fa": "پریدن",
+  "fin": "paridan",
+  "de": "springen, fliegen",
+  "bsp": [
+   {
+    "fa": "بچه از روی میز پرید.",
+    "fin": "bache az ru-ye miz parid.",
+    "de": "Das Kind sprang vom Tisch.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "پرنده می‌پرد.",
+    "fin": "parande mipared.",
+    "de": "Der Vogel fliegt.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4144,
+  "fa": "کی",
+  "fin": "ki / key",
+  "de": "wer; wann",
+  "bsp": [
+   {
+    "fa": "کی دیشب خیلی غذا پخت؟",
+    "fin": "ki dishab kheili ghazā pokht?",
+    "de": "Wer hat gestern Abend viel gekocht?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "تو کی به خانه می‌آیی؟",
+    "fin": "to ki be khāne miāyi?",
+    "de": "Wann kommst du nach Hause?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4145,
+  "fa": "چه غذایی",
+  "fin": "che ghazāyi",
+  "de": "was für ein Essen, welches Gericht",
+  "bsp": [
+   {
+    "fa": "امروز صبح چه غذایی خوردی؟",
+    "fin": "emruz sobh che ghazāyi khordi?",
+    "de": "Was hast du heute Morgen gegessen?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "در تعطیلات چه غذایی خوردی؟",
+    "fin": "dar ta'tilāt che ghazāyi khordi?",
+    "de": "Was hast du im Urlaub gegessen?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4146,
+  "fa": "به این دلیل که",
+  "fin": "be in dalil ke",
+  "de": "aus dem Grund, dass; weil",
+  "bsp": [
+   {
+    "fa": "به این دلیل که هوا سرد بود، نیامدم.",
+    "fin": "be in dalil ke havā sard bud, nayāmadam.",
+    "de": "Weil es kalt war, bin ich nicht gekommen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "فارسی یاد می‌گیرم به این دلیل که به ایران علاقه دارم.",
+    "fin": "fārsi yād migiram be in dalil ke be irān alāghe dāram.",
+    "de": "Ich lerne Persisch, weil ich mich für den Iran interessiere.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4147,
+  "fa": "باران",
+  "fin": "bārān",
+  "de": "Regen",
+  "bsp": [
+   {
+    "fa": "امروز باران می‌بارد.",
+    "fin": "emruz bārān mibārad.",
+    "de": "Heute regnet es.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "دیروز باران آمد.",
+    "fin": "diruz bārān āmad.",
+    "de": "Gestern hat es geregnet.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4148,
+  "fa": "صبح",
+  "fin": "sobh",
+  "de": "Morgen, Vormittag",
+  "bsp": [
+   {
+    "fa": "امروز صبح چی خوردی؟",
+    "fin": "emruz sobh chi khordi?",
+    "de": "Was hast du heute Morgen gegessen?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من هر صبح قهوه می‌خورم.",
+    "fin": "man har sobh ghahve mikhoram.",
+    "de": "Ich trinke jeden Morgen Kaffee.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4149,
+  "fa": "فوتبال",
+  "fin": "futbāl",
+  "de": "Fußball",
+  "bsp": [
+   {
+    "fa": "وقتی که بچه بودم، هر روز فوتبال بازی می‌کردم.",
+    "fin": "vaghti ke bache budam, har ruz futbāl bāzi mikardam.",
+    "de": "Als ich Kind war, habe ich jeden Tag Fußball gespielt.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "او فوتبال دوست دارد.",
+    "fin": "u futbāl dust dārad.",
+    "de": "Er/Sie mag Fußball.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4150,
+  "fa": "فیلم",
+  "fin": "film",
+  "de": "Film",
+  "bsp": [
+   {
+    "fa": "وقتی که بچه بودم، هر روز فیلم می‌دیدم.",
+    "fin": "vaghti ke bache budam, har ruz film mididam.",
+    "de": "Als ich Kind war, habe ich jeden Tag Filme gesehen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "فیلم مورد علاقه‌ی من یک فیلم ایرانی است.",
+    "fin": "film-e mored-e alāghe-ye man yek film-e irāni ast.",
+    "de": "Mein Lieblingsfilm ist ein iranischer Film.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4151,
+  "fa": "پلو",
+  "fin": "polo",
+  "de": "Reis (gekocht), Pilaw",
+  "bsp": [
+   {
+    "fa": "وقتی که بچه بودم، هر روز پلو و ماست می‌خوردم.",
+    "fin": "vaghti ke bache budam, har ruz polo va māst mikhordam.",
+    "de": "Als ich Kind war, habe ich jeden Tag Reis und Joghurt gegessen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "پلو با مرغ دوست دارم.",
+    "fin": "polo bā morgh dust dāram.",
+    "de": "Ich mag Reis mit Hähnchen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4152,
+  "fa": "دکان",
+  "fin": "dokkān",
+  "de": "Laden, kleines Geschäft",
+  "bsp": [
+   {
+    "fa": "پدرم یک دکان کوچک دارد.",
+    "fin": "pedaram yek dokkān-e kuchak dārad.",
+    "de": "Mein Vater hat einen kleinen Laden.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "دکان ما کنار بازار است.",
+    "fin": "dokkān-e mā kenār-e bāzār ast.",
+    "de": "Unser Laden ist neben dem Basar.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4153,
+  "fa": "پارک",
+  "fin": "pārk",
+  "de": "Park",
+  "bsp": [
+   {
+    "fa": "من به پارک رفتم.",
+    "fin": "man be pārk raftam.",
+    "de": "Ich bin in den Park gegangen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من در پارک پیاده‌روی کردم.",
+    "fin": "man dar pārk piyāde-ravi kardam.",
+    "de": "Ich habe im Park einen Spaziergang gemacht.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4154,
+  "fa": "قبل از آن",
+  "fin": "ghabl az ān",
+  "de": "davor, vorher",
+  "bsp": [
+   {
+    "fa": "قبل از آن سفر کاری داشتم.",
+    "fin": "ghabl az ān safar-e kāri dāshtam.",
+    "de": "Davor hatte ich eine Dienstreise.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "قبل از آن چای خوردم.",
+    "fin": "ghabl az ān chāy khordam.",
+    "de": "Davor habe ich Tee getrunken.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4155,
+  "fa": "سفر کاری",
+  "fin": "safar-e kāri",
+  "de": "Dienstreise, Geschäftsreise",
+  "bsp": [
+   {
+    "fa": "قبل از آن سفر کاری داشتم.",
+    "fin": "ghabl az ān safar-e kāri dāshtam.",
+    "de": "Davor hatte ich eine Dienstreise.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "او هفته‌ی آینده سفر کاری دارد.",
+    "fin": "u hafte-ye āyande safar-e kāri dārad.",
+    "de": "Er/Sie hat nächste Woche eine Dienstreise.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4156,
+  "fa": "خونه",
+  "fin": "khune",
+  "de": "Haus, Zuhause (umgangssprachlich für خانه)",
+  "bsp": [
+   {
+    "fa": "من تو خونه‌ام.",
+    "fin": "man tu khune-am.",
+    "de": "Ich bin zu Hause.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "بیا خونه‌ی ما!",
+    "fin": "biyā khune-ye mā!",
+    "de": "Komm zu uns nach Hause!",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4157,
+  "fa": "نون",
+  "fin": "nun",
+  "de": "Brot (umgangssprachlich für نان)",
+  "bsp": [
+   {
+    "fa": "یه نون بخر.",
+    "fin": "ye nun bekhar.",
+    "de": "Kauf ein Brot.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "نون تازه دوست دارم.",
+    "fin": "nun-e tāze dust dāram.",
+    "de": "Ich mag frisches Brot.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4158,
+  "fa": "دندان",
+  "fin": "dandān",
+  "de": "Zahn (umgangssprachlich: دندون)",
+  "bsp": [
+   {
+    "fa": "دندان‌هایم را مسواک می‌زنم.",
+    "fin": "dandān-hāyam rā mesvāk mizanam.",
+    "de": "Ich putze mir die Zähne.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "دندون درد دارم.",
+    "fin": "dandun dard dāram.",
+    "de": "Ich habe Zahnschmerzen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4159,
+  "fa": "بادمجان",
+  "fin": "bādemjān",
+  "de": "Aubergine (andere Schreibweise von بادنجان)",
+  "bsp": [
+   {
+    "fa": "بادمجان سرخ‌کرده دوست دارم.",
+    "fin": "bādemjān-e sorkh-karde dust dāram.",
+    "de": "Ich mag gebratene Aubergine.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "از بازار بادمجان خریدم.",
+    "fin": "az bāzār bādemjān kharidam.",
+    "de": "Ich habe auf dem Markt Auberginen gekauft.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4160,
+  "fa": "تازه",
+  "fin": "tāze",
+  "de": "frisch, neu",
+  "bsp": [
+   {
+    "fa": "ماست با میوه‌ی تازه می‌خورم.",
+    "fin": "māst bā mive-ye tāze mikhoram.",
+    "de": "Ich esse Joghurt mit frischem Obst.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "نان تازه خیلی خوشمزه است.",
+    "fin": "nān-e tāze kheili khoshmaze ast.",
+    "de": "Frisches Brot ist sehr lecker.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4161,
+  "fa": "هند",
+  "fin": "hend",
+  "de": "Indien",
+  "bsp": [
+   {
+    "fa": "هندی‌ها در هند چه زبانی صحبت می‌کنند؟",
+    "fin": "hendi-hā dar hend che zabāni sohbat mikonand?",
+    "de": "Welche Sprache sprechen Inder in Indien?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "هند کشور بزرگی است.",
+    "fin": "hend keshvar-e bozorgi ast.",
+    "de": "Indien ist ein großes Land.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4162,
+  "fa": "نروژ",
+  "fin": "norvezh",
+  "de": "Norwegen",
+  "bsp": [
+   {
+    "fa": "نروژی‌ها در نروژ به چه زبانی صحبت می‌کنند؟",
+    "fin": "norvezhi-hā dar norvezh be che zabāni sohbat mikonand?",
+    "de": "In welcher Sprache sprechen Norweger in Norwegen?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "اسلو در نروژ است.",
+    "fin": "oslo dar norvezh ast.",
+    "de": "Oslo liegt in Norwegen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4163,
+  "fa": "حالا",
+  "fin": "hālā",
+  "de": "jetzt, nun",
+  "bsp": [
+   {
+    "fa": "۵ سال در برلین زندگی کردم و حالا در زوریخ زندگی می‌کنم.",
+    "fin": "panj sāl dar berlin zendegi kardam va hālā dar zurikh zendegi mikonam.",
+    "de": "Ich habe 5 Jahre in Berlin gelebt und lebe jetzt in Zürich.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "حالا چه کار می‌کنی؟",
+    "fin": "hālā che kār mikoni?",
+    "de": "Was machst du jetzt?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4164,
+  "fa": "سیدنی",
+  "fin": "sidni",
+  "de": "Sydney",
+  "bsp": [
+   {
+    "fa": "سیدنی در استرالیا قرار دارد.",
+    "fin": "sidni dar ostorāliyā gharār dārad.",
+    "de": "Sydney liegt in Australien.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "سیدنی شهر بزرگی است.",
+    "fin": "sidni shahr-e bozorgi ast.",
+    "de": "Sydney ist eine große Stadt.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4165,
+  "fa": "مادرید",
+  "fin": "mādrid",
+  "de": "Madrid",
+  "bsp": [
+   {
+    "fa": "مادرید کجا قرار دارد؟",
+    "fin": "mādrid kojā gharār dārad?",
+    "de": "Wo liegt Madrid?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "مادرید در اسپانیا قرار دارد.",
+    "fin": "mādrid dar espāniyā gharār dārad.",
+    "de": "Madrid liegt in Spanien.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4166,
+  "fa": "اسلو",
+  "fin": "oslo",
+  "de": "Oslo",
+  "bsp": [
+   {
+    "fa": "اسلو کجا قرار دارد؟",
+    "fin": "oslo kojā gharār dārad?",
+    "de": "Wo liegt Oslo?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "اسلو در نروژ است.",
+    "fin": "oslo dar norvezh ast.",
+    "de": "Oslo liegt in Norwegen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4167,
+  "fa": "لندن",
+  "fin": "landan",
+  "de": "London",
+  "bsp": [
+   {
+    "fa": "لندن در انگلستان قرار دارد.",
+    "fin": "landan dar engelestān gharār dārad.",
+    "de": "London liegt in England.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "لندن شهر بزرگی است.",
+    "fin": "landan shahr-e bozorgi ast.",
+    "de": "London ist eine große Stadt.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4168,
+  "fa": "رم",
+  "fin": "rom",
+  "de": "Rom",
+  "bsp": [
+   {
+    "fa": "رم کجا قرار دارد؟",
+    "fin": "rom kojā gharār dārad?",
+    "de": "Wo liegt Rom?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "رم در ایتالیا است.",
+    "fin": "rom dar itāliyā ast.",
+    "de": "Rom liegt in Italien.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4169,
+  "fa": "هیوستون",
+  "fin": "hyuston",
+  "de": "Houston",
+  "bsp": [
+   {
+    "fa": "هیوستون کجا قرار دارد؟",
+    "fin": "hyuston kojā gharār dārad?",
+    "de": "Wo liegt Houston?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "هیوستون در آمریکا است.",
+    "fin": "hyuston dar āmrikā ast.",
+    "de": "Houston liegt in den USA.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4170,
+  "fa": "پراگ",
+  "fin": "perāg",
+  "de": "Prag",
+  "bsp": [
+   {
+    "fa": "پراگ کجا قرار دارد؟",
+    "fin": "perāg kojā gharār dārad?",
+    "de": "Wo liegt Prag?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "پراگ در جمهوری چک است.",
+    "fin": "perāg dar jomhuri-ye chek ast.",
+    "de": "Prag liegt in der Tschechischen Republik.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4171,
+  "fa": "برلین",
+  "fin": "berlin",
+  "de": "Berlin",
+  "bsp": [
+   {
+    "fa": "برلین کجا قرار دارد؟",
+    "fin": "berlin kojā gharār dārad?",
+    "de": "Wo liegt Berlin?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "برلین در آلمان است.",
+    "fin": "berlin dar ālmān ast.",
+    "de": "Berlin liegt in Deutschland.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4172,
+  "fa": "مونیخ",
+  "fin": "munikh",
+  "de": "München",
+  "bsp": [
+   {
+    "fa": "او در مونیخ زندگی می‌کند.",
+    "fin": "u dar munikh zendegi mikonad.",
+    "de": "Er/Sie lebt in München.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "مونیخ در جنوب آلمان است.",
+    "fin": "munikh dar jonub-e ālmān ast.",
+    "de": "München liegt im Süden Deutschlands.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4173,
+  "fa": "شمال شرقی",
+  "fin": "shomāl-e sharghi",
+  "de": "Nordosten",
+  "bsp": [
+   {
+    "fa": "مشهد در شمال شرقی ایران قرار دارد.",
+    "fin": "mashhad dar shomāl-e sharghi-ye irān gharār dārad.",
+    "de": "Maschhad liegt im Nordosten Irans.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "کدام شهر در شمال شرقی است؟",
+    "fin": "kodām shahr dar shomāl-e sharghi ast?",
+    "de": "Welche Stadt liegt im Nordosten?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4174,
+  "fa": "شمال غربی",
+  "fin": "shomāl-e gharbi",
+  "de": "Nordwesten",
+  "bsp": [
+   {
+    "fa": "تبریز در شمال غربی ایران قرار دارد.",
+    "fin": "tabriz dar shomāl-e gharbi-ye irān gharār dārad.",
+    "de": "Täbris liegt im Nordwesten Irans.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "کدام شهر در شمال غربی است؟",
+    "fin": "kodām shahr dar shomāl-e gharbi ast?",
+    "de": "Welche Stadt liegt im Nordwesten?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4175,
+  "fa": "جنوب شرقی",
+  "fin": "jonub-e sharghi",
+  "de": "Südosten",
+  "bsp": [
+   {
+    "fa": "زاهدان در جنوب شرقی ایران قرار دارد.",
+    "fin": "zāhedān dar jonub-e sharghi-ye irān gharār dārad.",
+    "de": "Zahedan liegt im Südosten Irans.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "کدام شهر در جنوب شرقی است؟",
+    "fin": "kodām shahr dar jonub-e sharghi ast?",
+    "de": "Welche Stadt liegt im Südosten?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4176,
+  "fa": "جنوب غربی",
+  "fin": "jonub-e gharbi",
+  "de": "Südwesten",
+  "bsp": [
+   {
+    "fa": "اهواز در جنوب غربی ایران قرار دارد.",
+    "fin": "ahvāz dar jonub-e gharbi-ye irān gharār dārad.",
+    "de": "Ahwas liegt im Südwesten Irans.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "کدام شهر در جنوب غربی است؟",
+    "fin": "kodām shahr dar jonub-e gharbi ast?",
+    "de": "Welche Stadt liegt im Südwesten?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4177,
+  "fa": "آبجی",
+  "fin": "ābji",
+  "de": "Schwester (umgangssprachlich)",
+  "bsp": [
+   {
+    "fa": "آبجی من دانشجو است.",
+    "fin": "ābji-ye man dāneshju ast.",
+    "de": "Meine Schwester ist Studentin.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "آبجی، کمک کن!",
+    "fin": "ābji, komak kon!",
+    "de": "Schwester, hilf mir!",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4178,
+  "fa": "داداش",
+  "fin": "dādāsh",
+  "de": "Bruder (umgangssprachlich)",
+  "bsp": [
+   {
+    "fa": "داداشم در برلین زندگی می‌کند.",
+    "fin": "dādāsham dar berlin zendegi mikonad.",
+    "de": "Mein Bruder lebt in Berlin.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "داداش، کجایی؟",
+    "fin": "dādāsh, kojāyi?",
+    "de": "Bruder, wo bist du?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4179,
+  "fa": "زن عمو",
+  "fin": "zan-amu",
+  "de": "Tante (Frau des Onkels väterlicherseits)",
+  "bsp": [
+   {
+    "fa": "زن عمویم معلم است.",
+    "fin": "zan-amuyam mo'allem ast.",
+    "de": "Die Frau meines Onkels ist Lehrerin.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "زن عمو در شیراز زندگی می‌کند.",
+    "fin": "zan-amu dar shirāz zendegi mikonad.",
+    "de": "Die Frau des Onkels lebt in Schiras.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4180,
+  "fa": "فوت کردن",
+  "fin": "fowt kardan",
+  "de": "versterben (formell)",
+  "bsp": [
+   {
+    "fa": "پدربزرگم فوت کرد.",
+    "fin": "pedarbozorgam fowt kard.",
+    "de": "Mein Großvater ist verstorben.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "مادربزرگ او فوت شده است.",
+    "fin": "mādarbozorg-e u fowt shode ast.",
+    "de": "Seine/Ihre Großmutter ist verstorben.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4181,
+  "fa": "چندتا",
+  "fin": "chandtā",
+  "de": "wie viele (bei Zählbarem)",
+  "bsp": [
+   {
+    "fa": "تو چندتا خواهر و برادر داری؟",
+    "fin": "to chandtā khāhar va barādar dāri?",
+    "de": "Wie viele Geschwister hast du?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "مادرت چندتا خواهر دارد؟",
+    "fin": "mādarat chandtā khāhar dārad?",
+    "de": "Wie viele Schwestern hat deine Mutter?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4182,
+  "fa": "کوچک‌تر",
+  "fin": "kuchak-tar",
+  "de": "kleiner, jünger",
+  "bsp": [
+   {
+    "fa": "برادر کوچک‌ترم دانش‌آموز است.",
+    "fin": "barādar-e kuchak-taram dānesh-āmuz ast.",
+    "de": "Mein jüngerer Bruder ist Schüler.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "این اتاق کوچک‌تر است.",
+    "fin": "in otāgh kuchak-tar ast.",
+    "de": "Dieses Zimmer ist kleiner.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4183,
+  "fa": "بزرگ‌تر",
+  "fin": "bozorg-tar",
+  "de": "größer, älter",
+  "bsp": [
+   {
+    "fa": "خواهر بزرگ‌ترم در برلین زندگی می‌کند.",
+    "fin": "khāhar-e bozorg-taram dar berlin zendegi mikonad.",
+    "de": "Meine ältere Schwester lebt in Berlin.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "خانه‌ی ما بزرگ‌تر است.",
+    "fin": "khāne-ye mā bozorg-tar ast.",
+    "de": "Unser Haus ist größer.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4184,
+  "fa": "باید",
+  "fin": "bāyad",
+  "de": "müssen, sollen",
+  "bsp": [
+   {
+    "fa": "او اغلب باید به سر کار برود.",
+    "fin": "u aghlab bāyad be sar-e kār beravad.",
+    "de": "Er/Sie muss oft zur Arbeit gehen.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من باید فارسی یاد بگیرم.",
+    "fin": "man bāyad fārsi yād begiram.",
+    "de": "Ich muss Persisch lernen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4185,
+  "fa": "چه کار می‌کنی؟",
+  "fin": "che kār mikoni?",
+  "de": "Was machst du (gerade)? Was hast du vor?",
+  "bsp": [
+   {
+    "fa": "تو چه کار می‌کنی؟",
+    "fin": "to che kār mikoni?",
+    "de": "Was machst du gerade?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "آخر هفته چه کار کردی؟",
+    "fin": "ākhar-e hafte che kār kardi?",
+    "de": "Was hast du am Wochenende gemacht?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4186,
+  "fa": "مشاور اقتصادی",
+  "fin": "moshāver-e eghtesādi",
+  "de": "Wirtschaftsberater/in",
+  "bsp": [
+   {
+    "fa": "او مشاور اقتصادی است.",
+    "fin": "u moshāver-e eghtesādi ast.",
+    "de": "Er/Sie ist Wirtschaftsberater/in.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "مشاور اقتصادی در یک شرکت کار می‌کند.",
+    "fin": "moshāver-e eghtesādi dar yek sherkat kār mikonad.",
+    "de": "Der Wirtschaftsberater arbeitet in einer Firma.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4187,
+  "fa": "پرستاری",
+  "fin": "parastāri",
+  "de": "Krankenpflege (Beruf)",
+  "bsp": [
+   {
+    "fa": "شغل من پرستاری است.",
+    "fin": "shoghl-e man parastāri ast.",
+    "de": "Mein Beruf ist Krankenpflege.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "پرستاری شغل سختی است.",
+    "fin": "parastāri shoghl-e sakhti ast.",
+    "de": "Pflege ist ein schwerer Beruf.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4188,
+  "fa": "بیشتر از",
+  "fin": "bishtar az",
+  "de": "mehr als",
+  "bsp": [
+   {
+    "fa": "تو بیشتر از یک شغل داری؟",
+    "fin": "to bishtar az yek shoghl dāri?",
+    "de": "Hast du mehr als einen Job?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "او بیشتر از من کار می‌کند.",
+    "fin": "u bishtar az man kār mikonad.",
+    "de": "Er/Sie arbeitet mehr als ich.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4189,
+  "fa": "بسیاری",
+  "fin": "besiyāri",
+  "de": "viele, zahlreich",
+  "bsp": [
+   {
+    "fa": "من شغل‌های بسیاری دارم.",
+    "fin": "man shoghl-hā-ye besiyāri dāram.",
+    "de": "Ich habe viele Jobs.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "بسیاری از دوستانم ایرانی هستند.",
+    "fin": "besiyāri az dustānam irāni hastand.",
+    "de": "Viele meiner Freunde sind Iraner/innen.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4190,
+  "fa": "سفر کردن",
+  "fin": "safar kardan",
+  "de": "reisen",
+  "bsp": [
+   {
+    "fa": "تو امسال کریسمس سفر می‌کنی؟",
+    "fin": "to emsāl kerismas safar mikoni?",
+    "de": "Reist du dieses Jahr zu Weihnachten?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من زیاد سفر می‌کنم.",
+    "fin": "man ziyād safar mikonam.",
+    "de": "Ich reise viel.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4191,
+  "fa": "سفر خارجی",
+  "fin": "safar-e khāreji",
+  "de": "Auslandsreise",
+  "bsp": [
+   {
+    "fa": "تو امسال کریسمس به سفر خارجی می‌روی؟",
+    "fin": "to emsāl kerismas be safar-e khāreji miravi?",
+    "de": "Machst du dieses Jahr zu Weihnachten eine Auslandsreise?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "سفر خارجی خیلی گران است.",
+    "fin": "safar-e khāreji kheili gerān ast.",
+    "de": "Eine Auslandsreise ist sehr teuer.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4192,
+  "fa": "به تعطیلات رفتن",
+  "fin": "be ta'tilāt raftan",
+  "de": "in den Urlaub fahren",
+  "bsp": [
+   {
+    "fa": "تو امسال کریسمس به تعطیلات می‌روی؟",
+    "fin": "to emsāl kerismas be ta'tilāt miravi?",
+    "de": "Fährst du dieses Jahr zu Weihnachten in den Urlaub?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "ما در تابستان به تعطیلات می‌رویم.",
+    "fin": "mā dar tābestān be ta'tilāt miravim.",
+    "de": "Im Sommer fahren wir in den Urlaub.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4193,
+  "fa": "کجا",
+  "fin": "kojā",
+  "de": "wo",
+  "bsp": [
+   {
+    "fa": "معلم کجا است؟",
+    "fin": "mo'allem kojā ast?",
+    "de": "Wo ist der Lehrer?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "شما کجا زندگی می‌کنید؟",
+    "fin": "shomā kojā zendegi mikonid?",
+    "de": "Wo wohnen Sie?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4194,
+  "fa": "به کجا",
+  "fin": "be kojā",
+  "de": "wohin",
+  "bsp": [
+   {
+    "fa": "تو به کجا می‌روی؟",
+    "fin": "to be kojā miravi?",
+    "de": "Wohin gehst du?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "امروز به کجا می‌رویم؟",
+    "fin": "emruz be kojā miravim?",
+    "de": "Wohin gehen wir heute?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4195,
+  "fa": "از کجا",
+  "fin": "az kojā",
+  "de": "woher",
+  "bsp": [
+   {
+    "fa": "تو از کجا هستی؟",
+    "fin": "to az kojā hasti?",
+    "de": "Woher kommst du?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "این کتاب را از کجا خریدی؟",
+    "fin": "in ketāb rā az kojā kharidi?",
+    "de": "Wo hast du dieses Buch gekauft?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4196,
+  "fa": "چطور",
+  "fin": "chetor",
+  "de": "wie",
+  "bsp": [
+   {
+    "fa": "تو چطور فارسی یاد می‌گیری؟",
+    "fin": "to chetor fārsi yād migiri?",
+    "de": "Wie lernst du Persisch?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "امروز هوا چطور است؟",
+    "fin": "emruz havā chetor ast?",
+    "de": "Wie ist das Wetter heute?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4197,
+  "fa": "چگونه",
+  "fin": "chegune",
+  "de": "wie (formell)",
+  "bsp": [
+   {
+    "fa": "حال شما چگونه است؟",
+    "fin": "hāl-e shomā chegune ast?",
+    "de": "Wie geht es Ihnen?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "این کار چگونه انجام می‌شود؟",
+    "fin": "in kār chegune anjām mishavad?",
+    "de": "Wie wird diese Arbeit erledigt?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4198,
+  "fa": "چجور",
+  "fin": "chejur",
+  "de": "wie (umgangssprachlich)",
+  "bsp": [
+   {
+    "fa": "تو چجور آدمی هستی؟",
+    "fin": "to chejur ādami hasti?",
+    "de": "Was für ein Mensch bist du?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "این را چجور بگویم؟",
+    "fin": "in rā chejur beguyam?",
+    "de": "Wie soll ich das sagen?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4199,
+  "fa": "چه کسی",
+  "fin": "che kasi",
+  "de": "wer (formell)",
+  "bsp": [
+   {
+    "fa": "چه کسی در خانه است؟",
+    "fin": "che kasi dar khāne ast?",
+    "de": "Wer ist zu Hause?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "چه کسی این را گفت؟",
+    "fin": "che kasi in rā goft?",
+    "de": "Wer hat das gesagt?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4200,
+  "fa": "چقدر",
+  "fin": "cheghadr",
+  "de": "wie viel",
+  "bsp": [
+   {
+    "fa": "این چقدر است؟",
+    "fin": "in cheghadr ast?",
+    "de": "Wie viel kostet das?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "چقدر وقت داری؟",
+    "fin": "cheghadr vaght dāri?",
+    "de": "Wie viel Zeit hast du?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4201,
+  "fa": "چه",
+  "fin": "che",
+  "de": "was, welche(r) (schriftlich/formell)",
+  "bsp": [
+   {
+    "fa": "چه روزی است؟",
+    "fin": "che ruzi ast?",
+    "de": "Welcher Tag ist heute?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "تو چه رنگی دوست داری؟",
+    "fin": "to che rangi dust dāri?",
+    "de": "Welche Farbe magst du?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4202,
+  "fa": "خسته",
+  "fin": "khaste",
+  "de": "müde",
+  "bsp": [
+   {
+    "fa": "کی خسته است؟",
+    "fin": "ki khaste ast?",
+    "de": "Wer ist müde?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "من امروز خیلی خسته‌ام.",
+    "fin": "man emruz kheili khasteam.",
+    "de": "Ich bin heute sehr müde.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4203,
+  "fa": "املت",
+  "fin": "omlet",
+  "de": "Omelett",
+  "bsp": [
+   {
+    "fa": "برای صبحانه املت گوجه می‌خورم.",
+    "fin": "barāye sobhāne omlet-e gowje mikhoram.",
+    "de": "Zum Frühstück esse ich Tomaten-Omelett.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "املت با نان خوشمزه است.",
+    "fin": "omlet bā nān khoshmaze ast.",
+    "de": "Omelett mit Brot ist lecker.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4204,
+  "fa": "مهمانی",
+  "fin": "mehmāni",
+  "de": "Party, Einladung",
+  "bsp": [
+   {
+    "fa": "کی دیشب برای مهمانی آشپزی کرد؟",
+    "fin": "ki dishab barāye mehmāni āshpazi kard?",
+    "de": "Wer hat gestern Abend für die Party gekocht?",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "امشب مهمانی داریم.",
+    "fin": "emshab mehmāni dārim.",
+    "de": "Heute Abend haben wir eine Party.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4205,
+  "fa": "بسیار",
+  "fin": "besiyār",
+  "de": "sehr, viel",
+  "bsp": [
+   {
+    "fa": "رستورانی که رفتیم بسیار شلوغ بود.",
+    "fin": "restorāni ke raftim besiyār shologh bud.",
+    "de": "Das Restaurant, in das wir gingen, war sehr voll.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "بسیار ممنون.",
+    "fin": "besiyār mamnun.",
+    "de": "Vielen Dank.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4206,
+  "fa": "علاقه",
+  "fin": "alāghe",
+  "de": "Interesse",
+  "bsp": [
+   {
+    "fa": "من به موسیقی علاقه دارم.",
+    "fin": "man be musiqi alāghe dāram.",
+    "de": "Ich habe Interesse an Musik.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "همه به آن علاقه داشتند.",
+    "fin": "hame be ān alāghe dāshtand.",
+    "de": "Alle waren daran interessiert.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4207,
+  "fa": "پاریس",
+  "fin": "pāris",
+  "de": "Paris",
+  "bsp": [
+   {
+    "fa": "فیلم من درباره‌ی یک آشپز بزرگ در پاریس است.",
+    "fin": "film-e man darbāre-ye yek āshpaz-e bozorg dar pāris ast.",
+    "de": "Mein Film handelt von einem großen Koch in Paris.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "پاریس در فرانسه است.",
+    "fin": "pāris dar farānse ast.",
+    "de": "Paris liegt in Frankreich.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4208,
+  "fa": "سال گذشته / سال پیش / سال قبل",
+  "fin": "sāl-e gozashte / sāl-e pish / sāl-e ghabl",
+  "de": "letztes Jahr",
+  "bsp": [
+   {
+    "fa": "سال گذشته به ایران رفتم.",
+    "fin": "sāl-e gozashte be irān raftam.",
+    "de": "Letztes Jahr bin ich nach Iran gefahren.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "سال پیش کجا بودی؟",
+    "fin": "sāl-e pish kojā budi?",
+    "de": "Wo warst du letztes Jahr?",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4209,
+  "fa": "ماه گذشته / ماه پیش / ماه قبل",
+  "fin": "māh-e gozashte / māh-e pish / māh-e ghabl",
+  "de": "letzten Monat",
+  "bsp": [
+   {
+    "fa": "ماه گذشته مریض بودم.",
+    "fin": "māh-e gozashte mariz budam.",
+    "de": "Letzten Monat war ich krank.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "ماه پیش دوستم آمد.",
+    "fin": "māh-e pish dustam āmad.",
+    "de": "Letzten Monat kam mein Freund.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ },
+ {
+  "id": 4210,
+  "fa": "نه",
+  "fin": "noh",
+  "de": "neun",
+  "bsp": [
+   {
+    "fa": "نه کتاب دارم.",
+    "fin": "noh ketāb dāram.",
+    "de": "Ich habe neun Bücher.",
+    "quelle": "Kurs"
+   },
+   {
+    "fa": "ساعت نه باز می‌شود.",
+    "fin": "sā'at-e noh bāz mishavad.",
+    "de": "Um neun Uhr öffnet es.",
+    "quelle": "Kurs"
+   }
+  ],
+  "quelle": "Kurs (Tafelbilder, Sep.–Nov. 2026)",
+  "manuell": true
+ }
+]
