@@ -45,7 +45,7 @@ Alle drei Schalter sind oval und wirken sofort, die Wahl wird gemerkt:
 - `?wod=1` in der Adresse (vom Widget) zeigt das Wort des Tages, ohne es zu wechseln. Mit `&id=<Wort-ID>` zeigt die App genau das Wort aus dem Widget.
 
 ## Lernstand
-- Der Stand liegt im Browser (localStorage, Schlüssel `farsi-voc-v3`).
+- Der Stand liegt im Browser (localStorage, Schlüssel `farsi-voc-v9`).
 - „Sichern“ öffnet auf dem iPhone das Teilen-Menü (Web Share API, z. B. „In Dateien sichern“). Ohne Teilen-Menü wird die Datei heruntergeladen. Danach steht dort „Gesichert ✓“, bis du wieder lernst.
 - „Wiederherstellen“ lädt eine Sicherung zurück. Sicherungen der alten Vokabelliste (ohne `dataVersion: 3`) werden abgelehnt, weil sich die Wort-Nummern geändert haben.
 - Beim ersten Start nach dem Update zeigt die App einen Hinweis. Der alte Stand (`farsi-voc-v1`) wird nicht übernommen, kann aber vorher gesichert werden.
